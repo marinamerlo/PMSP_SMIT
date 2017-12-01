@@ -1,5 +1,30 @@
 #http://dados.prefeitura.sp.gov.br/dataset/servidores-ativos-da-prefeitura
 
+## referências teóricas
+
+#http://repositorio.ipea.gov.br/bitstream/11058/4004/1/mt42_completo.pdf
+
+#http://repositorio.enap.gov.br/bitstream/1/1422/1/2006%20Vol.57%2cn.4%20Kerr.pdf
+
+#http://www.jstor.org/stable/976730?seq=1#page_scan_tab_contents
+
+#http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8500.1987.tb01439.x/full
+
+#http://www.tandfonline.com/doi/abs/10.1080/21565503.2017.1403932?journalCode=rpgi20
+
+#https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwjm-ObxyunXAhXIG5AKHQMkAkQQFggyMAE&url=http%3A%2F%2Fwww.observatoriodegenero.gov.br%2Fmenu%2Fpublicacoes%2Foutros-artigos-e-publicacoes%2Fgenero-raca-e-competencias-de-direcao-no-servico-publico-federal%2Fat_download%2Ffile&usg=AOvVaw2sG0yqGcQsMkDeztz7k0q4
+
+#http://ipea.gov.br/agencia/images/stories/PDFs/relatoriopesquisa/120601_relatorio_mulhereshomens_das.pdf
+
+#alguns dados pra extrair a partir do que diz a literatura:
+
+
+#cargos comissionados mais altos 
+#cargos de coordenação
+
+
+
+
 setwd("C:\\Users\\d841255\\Desktop\\SIMPROC")
 
 library(readr)
